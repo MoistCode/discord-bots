@@ -1,0 +1,9 @@
+{
+  "name": "discord-bots",
+  "version": "1.0.0",
+  "description": "List of my discord bots",
+  "main": "index.js",
+  "repository": "git@github.com:MoistCode/discord-bots.git",
+  "author": "Tommy Long Pham <tpham@smugmug.com>",
+  "license": "MIT"
+}
