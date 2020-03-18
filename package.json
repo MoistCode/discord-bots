@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:MoistCode/discord-bots.git",
   "author": "Tommy Long Pham <tpham@smugmug.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
 }
